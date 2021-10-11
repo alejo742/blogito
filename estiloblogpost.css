@@ -7,6 +7,8 @@ body {
 head {
     text-align: center;
     color: chocolate;
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 div {
     border: cornsilk;
