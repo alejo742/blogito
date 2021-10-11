@@ -1,4 +1,15 @@
 body {
     color: blue;
     background-color: cadetblue;
+    text-align: center;
+    font-family: "Arial";
+}
+head {
+    text-align: center;
+    color: chocolate;
+}
+div {
+    border: cornsilk;
+    border-radius: 5%;
+    border-width: medium;
 }
