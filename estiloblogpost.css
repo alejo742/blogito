@@ -4,14 +4,21 @@ body {
     text-align: center;
     font-family: "Arial";
 }
-head {
+h1 {
     text-align: center;
     color: chocolate;
     font-weight: bold;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
-div {
-    border: cornsilk;
-    border-radius: 5%;
-    border-width: medium;
+#container {
+    background-color: darkblue;
+    color: whitesmoke;
+    font-weight: bold;
+}
+#post {
+    background-color: whitesmoke;
+    color: black;
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
 }
